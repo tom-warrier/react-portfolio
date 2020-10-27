@@ -1,6 +1,6 @@
 # Tom Chang ReactJS Portfolio Template      
 
-![ReactJS Resume of Tom Chang](resume-screenshot.png?raw=true "ReactJS Resume of Tom Chang")
+![ReactJS Resume of Tom Chang](resume-screenshot.jpg?raw=true "ReactJS Resume of Tom Chang")
 
 ## <a href="https://compassionate-leakey-e9b16b.netlify.app/">LIVE DEMO</a>
 
